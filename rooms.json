@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Conference Room",
+    "seats": 10,
+    "amenities": [
+      "Projector",
+      "Whiteboard"
+    ],
+    "pricePerHour": 50
+  },
+  {
+    "id": 2,
+    "name": "Conference Room",
+    "seats": 20,
+    "amenities": [
+      "Projector",
+      "Whiteboard"
+    ],
+    "pricePerHour": 60
+  },
+  {
+    "id": 3
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5
+  },
+  {
+    "id": 6
+  },
+  {
+    "id": 7,
+    "name": "conference room",
+    "seats": 20,
+    "pricePerHour": 50
+  },
+  {
+    "id": 8,
+    "name": "conference room",
+    "seats": 20,
+    "pricePerHour": 50
+  }
+]
